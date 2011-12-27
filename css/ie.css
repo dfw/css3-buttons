@@ -1,0 +1,12 @@
+.btn {
+	background:#20c167 url(../images/btnAccept-default.gif) repeat-x left bottom;
+}
+.btn:active {
+	background:#20c167 url(../images/btnAccept-active.gif) repeat-x left top;
+}
+.decline {
+	background:#ff3443 url(../images/btnDecline-default.gif) repeat-x left bottom;
+}
+.decline:active {
+	background:#ff3443 url(../images/btnDecline-active.gif) repeat-x left top;
+}
