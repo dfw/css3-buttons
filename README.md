@@ -6,6 +6,8 @@ The code used to make these CSS3 buttons is completely free for personal and com
 
 These buttons were first shared on this [blog post](http://www.webdesigndev.com/web-development/css3-buttons-for-every-web-browser), which gives some instruction on the markup for the buttons.
 
+There is a [demo](http://dfweiss.com/demos/css3-buttons/) on my site, which can also be found in the repo.
+
 **Author:** David F. Weiss
 
 **Website:** [http://dfweiss.com/](http://dfweiss.com/)
