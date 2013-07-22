@@ -10,6 +10,6 @@ There is a [demo](http://dfweiss.com/demos/css3-buttons/) on my site, as well as
 
 **Author:** David F. Weiss
 
-**Website:** [http://dfweiss.com/](http://dfweiss.com/)
+**Website:** [http://davidfweiss.com/](http://davidfweiss.com/)
 
-**Twitter:** [@dfweiss](http://twitter.com/dfweiss)
+**Twitter:** [@dfwct](http://twitter.com/dfwct)
