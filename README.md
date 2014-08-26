@@ -1,6 +1,6 @@
 # CSS3 Buttons
 
-*"Hawt cross-browser compatible CSS3 buttons with a background image fallback for IE"*
+*"Cross-browser compatible CSS3 buttons with a background image fallback for IE"*
 
 The code used to make these CSS3 buttons is completely free for personal and commercial use. Grab the code, modify it to your liking and enjoy! If you end up using this code for a live project, please send me a link to the webpage &mdash; I'd love to see it.
 
