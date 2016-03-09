@@ -9,5 +9,3 @@ These buttons were first shared on this [blog post](http://www.webdesigndev.com/
 **Author:** David F. Weiss
 
 **Website:** [http://davidfweiss.com/](http://davidfweiss.com/)
-
-**Twitter:** [@dfwct](http://twitter.com/dfwct)
